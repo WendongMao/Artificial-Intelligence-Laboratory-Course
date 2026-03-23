@@ -14,7 +14,7 @@
 [代码链接]()
 
 ### 第四节课
-[代码链接]()
+[代码链接](https://github.com/huangryyy/LITNet_Lesson4/tree/main/LITNet_2026)
 
 ### 第五节课
 [代码链接]()
