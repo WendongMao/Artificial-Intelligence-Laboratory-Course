@@ -17,7 +17,7 @@
 [代码链接](https://github.com/huangryyy/LITNet_Lesson4/tree/main/LITNet_2026)
 
 ### 第五节课
-[代码链接](https://github.com/MingfanZhao/Class-05-Artificial-Intelligence-Laboratory-Course)
+[代码链接](https://github.com/WendongMao/Intelligent_Typography)
 
 ### 第六节课
 [代码链接](https://github.com/MingfanZhao/Class-06-Artificial-Intelligence-Laboratory-Course)
